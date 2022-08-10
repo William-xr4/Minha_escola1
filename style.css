@@ -1,4 +1,8 @@
 body{
     text-align: center !important;
-    background-color: rgb(0, 119, 255);
+    background: rgb(0, 119, 255) !important;
+}
+.img-fluid{
+    height:800px !important;
+    width:1000px;
 }
