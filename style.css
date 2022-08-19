@@ -6,3 +6,15 @@ body{
     height:800px !important;
     width:1000px;
 }
+#b{
+    background-color:yellow;
+    color:black;
+}
+#cartao{
+    display:block;
+    margin-right:auto;
+    margin-left:auto;
+}
+#cartao img{
+    width:300px;
+}
