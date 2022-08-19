@@ -1,6 +1,6 @@
 body{
     text-align: center !important;
-    background: rgb(0, 119, 255) !important;
+    background: rgb(65, 185, 255) !important;
 }
 .img-fluid{
     height:800px !important;
@@ -17,4 +17,7 @@ body{
 }
 #cartao img{
     width:300px;
+}
+#a{
+    color:aliceblue;
 }
